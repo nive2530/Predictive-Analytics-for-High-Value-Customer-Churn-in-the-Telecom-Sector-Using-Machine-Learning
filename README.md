@@ -102,3 +102,6 @@ The project successfully developed a robust churn prediction system that enables
 - Anticipate churn among high-value customers with high accuracy.
 - Implement targeted retention strategies to reduce revenue leakage.
 - Understand the primary factors influencing churn for better decision-making.
+
+## Dataset:
+https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
