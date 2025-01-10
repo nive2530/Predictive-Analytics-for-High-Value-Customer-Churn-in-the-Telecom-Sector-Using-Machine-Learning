@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Prediction-Project
+# Predictive Analytics for High-Value Customer Churn in the Telecom Sector Using Machine Learning
 
 ## Project Objective:
 The primary goal of this project is to develop predictive models to identify high-value prepaid customers at risk of churn for a leading telecom operator in the Indian and Southeast Asian markets. This is crucial in reducing customer attrition, as retaining existing customers is significantly more cost-effective than acquiring new ones. Additionally, the project aims to identify key indicators of churn to inform targeted customer retention strategies.
