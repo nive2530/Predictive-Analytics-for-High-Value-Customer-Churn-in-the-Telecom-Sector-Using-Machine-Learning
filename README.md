@@ -56,20 +56,23 @@ Trained several classification models, including:
 - Used Logistic Regression coefficients and Decision Tree feature importance metrics to identify top predictors.
 - Highlighted factors like a decline in data usage, recharge frequency, and call volume as critical churn indicators.
 
-## Evaluation Metrics:**
+## Evaluation Metrics:
 **Model Metrics:**
 - Precision, Recall, F1-Score
 - ROC-AUC Curve
+  
 **Business Focus:**
 - Higher recall ensures a greater proportion of at-risk customers are correctly identified.
 
 ## Results and Insights:
 **Model Performance:**
 - Achieved a recall of 85% on high-value customer churn prediction, with an overall ROC-AUC score of 90%.
+  
 **Key Predictors of Churn:**
 - Significant drop in mobile data usage.
 - Decrease in outgoing call volumes over time.
 - Reduced recharge amounts and frequency.
+  
 **Business Insights:**
 - High-value customers show a noticeable decline in usage during the action phase, providing an opportunity for intervention.
 - Proactive engagement strategies and personalized offers can effectively address churn risks.
@@ -78,9 +81,11 @@ Trained several classification models, including:
 **Retention Strategies:**
 - Offer exclusive plans, loyalty rewards, and discounts to customers exhibiting signs of churn during the action phase.
 - Improve customer service touchpoints to address dissatisfaction promptly.
+  
 **Proactive Engagement:**
 - Monitor high-value customer activity to detect early signs of churn.
 - Launch targeted campaigns based on usage trends and customer segmentation.
+  
 **Service Improvements:**
 - Enhance service quality in regions with high churn rates.
 - Address common customer pain points identified through the analysis.
