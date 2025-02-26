@@ -91,7 +91,7 @@ Trained several classification models, including:
 - Address common customer pain points identified through the analysis.
 
 ## Tools and Techniques:
-- **Data Processing:** Python (Pandas, NumPy), SQL.
+- **Data Processing:** Python (Pandas, NumPy).
 - **Visualization:** Matplotlib, Seaborn, Plotly.
 - **Modeling:** Scikit-learn, XGBoost, Random Forest.
 - **Dimensionality Reduction:** PCA.
